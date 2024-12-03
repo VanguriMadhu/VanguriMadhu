@@ -1,11 +1,11 @@
 # Hi there, I'm VANGURI MADHU 👋
 
-🌟 **Passionate Python Full Stack Developer** | 🇮🇳 India
+🌟 **Passionate Full Stack Developer** | 🇮🇳 India
 
 ---
 
 ## 🚀 About Me
-I'm a **Python Full Stack Developer** with a love for technology and innovation. Based in India, I thrive on building web applications that make a difference. I'm always excited to learn new technologies and improve my skill set.
+I'm a **Full Stack Developer** with a love for technology and innovation. Based in India, I thrive on building web applications that make a difference. I'm always excited to learn new technologies and improve my skill set.
 
 ---
 
@@ -46,7 +46,7 @@ I'm a **Python Full Stack Developer** with a love for technology and innovation.
 ---
 
 ## 🔗 Links
-- 🌐 [Portfolio](https://vangurimadhu.github.io/Portfolio/)
+- 🌐 [Portfolio](https://portfolio-madhu-vanguri.vercel.app/)
 ---
 
 ## 🏆 Achievements
