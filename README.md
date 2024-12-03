@@ -35,7 +35,9 @@ I'm a **Full Stack Developer** with a love for technology and innovation. Based 
 - **WordPress:** Developing custom themes and plugins
 - **MongoDB:** NoSQL database management
 - **Django:** Advanced backend development
-
+- **Python:** Data analysis, machine learning, and automation
+- **Node.js:** Building scalable server-side applications
+- **Express:** Creating robust backend services and APIs
 ---
 
 ## 📫 Connect with Me
